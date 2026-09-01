@@ -43,6 +43,7 @@ requirements:
     - onnx >=1.14.0
     - timm >=0.9.12
     - importlib-metadata
+    - requests
 
 tests:
   - python:
